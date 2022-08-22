@@ -3,22 +3,24 @@
 
 ### I am looking for some open source project to contribute to and my skillset can be found below on the Technology Stack section
 
----
-### Technology Stack
-![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTovpG6MudlKKuFYSpomnSv1rapfnylj5T1tyGOkjqlHA&s)
-![CSS3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjySKwnJfnB84U8WvkL1CW3Fz3asxuFLFCdbt1h5ge&s)
-![Javascript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFKIs2u8pO07y_W3AO2Dycb_OinAz9Y6pt6fuC417zw&s)
-![ReactJs](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiN6dDQBW_f3AN1jaaQJcsGQS-ZnVPrPKrn-LZknhUwQ&s)
-![Sass](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRoWCnVagtIT2NJGf3YmONUR5pqvpHWn-8_BGw0W2l1g&s)
-![Bootstrap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3mdZYHNzCD1ky0LO-Kqw7IKlpWocfrIs0T-CnJFs8A&s)
-![MySQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rFzpAzqF7KXsK6jUZi5spaqF3fAntd465ZaosNySkQ&s)
-![laravel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5k1PSWBBRR0CIPFUEAqLOmCBRLZe0vGREPX--zSPI&s)
-![php](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPiUx7kzp-KQsyTtQevMTbRO-7XpEVEhb8XSO6gXbUsg&s)
-![Alpinejs](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlfmCSunx3PS-Kis7f1LnX9wREEZB49RI2H_V8uKAOw&s)
-![Livewire](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbp-UcmxoZ6y4arj_C5Y5oZgOQ-zVnSiGPGnp-HSrHNg&s)
----
+- 📫 How to reach me **chimobi.justice@gmail.com**
 
 ---
-![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Technology Stack
+---
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire Badge](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=for-the-badge)
+![ALPINEJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black
 ---
