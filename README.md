@@ -4,5 +4,5 @@
 😄 My Pronouns: He/Him
 💬 Ask me about: JS, PHP 
 
-### I am looking for some open source project to contribute to and my skillset can be found below on the Technology Stack section
+### I am looking for some open source project to contribute to and progressively added to my skillset
 - 📫 How to reach me **chimobi.justice@gmail.com**
