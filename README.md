@@ -1,8 +1,16 @@
-## 👋 Hi there, I am Justice Chimobi
-### ✨ A Software Developer that's passionate about creating interactive things that work on computers. I love building new things, and doing new stuffs an Ambitious problem-solving Software developer who is continually boosting a powerful set of technology skills.... Technology lover. :)
+## Hi there, I'm Justice Chimobi
+✨ Frontend Engineer
+
+I'm a passionate developer who loves creating interactive products that work beautifully on the web.
+
+I enjoy building new things, exploring modern technologies, and solving meaningful problems with clean, scalable solutions.
+
+I am currently building [Fidely UI](https://fidely-ui.vercel.app/), a modern and intuitive UI component library focused on flexibility, accessibility, and great developer experience.
 
 😄 My Pronouns: He/Him
-💬 Ask me about: JS, PHP 
 
-### I am looking for some open source project to contribute to and progressively added to my skillset
-- 📫 How to reach me **chimobi.justice@gmail.com**
+💬 Ask me about: JavaScript, PHP, UI engineering, component systems
+
+### Reach Me
+
+📩 **chimobi.justice@gmail.com**
