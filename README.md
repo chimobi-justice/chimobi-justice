@@ -1,16 +1,21 @@
-## Hi there, I'm Justice Chimobi
-✨ Frontend Engineer
+# Hi there, I'm Justice Chimobi 👋
+✨ **Frontend Engineer | Creator of Fidely UI**
 
-I'm a passionate developer who loves creating interactive products that work beautifully on the web.
+I build **scalable, accessible, and intuitive frontend systems** that help teams ship faster and create beautiful web experiences.
 
-I enjoy building new things, exploring modern technologies, and solving meaningful problems with clean, scalable solutions.
+Currently, I’m building **[Fidely UI](https://fidely-ui.vercel.app/)**, a modern React component library focused on:
 
-I am currently building [Fidely UI](https://fidely-ui.vercel.app/), a modern and intuitive UI component library focused on flexibility, accessibility, and great developer experience.
+- Composability & developer experience
+- Accessibility baked in by default
+- Flexible, themeable components for modern web apps
 
-😄 My Pronouns: He/Him
+**Fidely UI Pro** — coming soon with premium blocks and advanced components!
 
-💬 Ask me about: JavaScript, PHP, UI engineering, component systems
+I love exploring modern web technologies, building modern web apps, designing reusable components, and solving complex UI challenges with clean, maintainable code.
 
-### Reach Me
+---
 
-📩 **chimobi.justice@gmail.com**
+### 📫 Reach Me
+- Email: chimobi.justice@gmail.com  
+
+---
